@@ -11,8 +11,7 @@
 
 
 <p align="center">
-<img 
-    src="https://github.com/HellynCRV/prompts-recipe-to-create-a-ebook/blob/608618225a765662bda2f0b7b656ba57481c69a2/capa%20ebook.pdf"
+<img src="https://github.com/HellynCRV/prompts-recipe-to-create-a-ebook/blob/608618225a765662bda2f0b7b656ba57481c69a2/capa%20ebook.pdf"
     width="400"  
 />
 </p>
