@@ -30,8 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [LeonardoAI]
-(https://leonardo.ai)
+- [LeonardoAI](https://leonardo.ai)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -43,11 +42,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de alimentação saudável, do nicho de saúde e o subnicho é de culinária, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
 | introdução | crie uma introdução para um e-book com receitas saudáveis e gostosas que deixam a vida mais leve |
-
-          |
 | conteúdo | me mostre algumas receitas saudáveis e gostosas com fotos |
-
-          |
 | agradecimentos| Crie um agradecimento final para o e-book |
 
 
