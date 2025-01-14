@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="https://github.com/HellynCRV/prompts-recipe-to-create-a-ebook/blob/608618225a765662bda2f0b7b656ba57481c69a2/capa%20ebook.pdf"
+    src= "https://github.com/HellynCRV/prompts-recipe-to-create-a-ebook/blob/608618225a765662bda2f0b7b656ba57481c69a2/capa%20ebook.pdf"
     width="400"  
 />
 </p>
@@ -44,9 +44,10 @@ ChatGPT：
 |  título  | Crie um título de um ebook sobre o tema de alimentação saudável, do nicho de saúde e o subnicho é de culinária, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
 | introdução | crie uma introdução para um e-book com receitas saudáveis e gostosas que deixam a vida mais leve |
 
-
+          |
 | conteúdo | me mostre algumas receitas saudáveis e gostosas com fotos |
 
+          |
 | agradecimentos| Crie um agradecimento final para o e-book |
 
 
